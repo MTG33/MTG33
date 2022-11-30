@@ -6,6 +6,8 @@
 <h3 align="center">A passionate frontend developer from KERELA</h3>
 
 img width="50%" src="https://gpvc.arturio.dev/Mo-Tech-MRK-YT" alt="Profile views" />
+
+
 - 🔭 I’m currently working on **TELEGRAM BOTZ**
 
 - 🌱 I’m currently learning **PYTHON 3**
